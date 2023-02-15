@@ -12,8 +12,8 @@ null,
 {"id":10,"expanded":false,"name":"10第六章","order":14,"parentId":3,"scrollX":409,"scrollY":499.5},
 {"id":11,"expanded":false,"name":"11第七章","order":15,"parentId":3,"scrollX":535,"scrollY":499.5},
 {"id":12,"expanded":false,"name":"12第八章","order":16,"parentId":3,"scrollX":548,"scrollY":499.5},
-{"id":13,"expanded":false,"name":"13手機","order":3,"parentId":16,"scrollX":409,"scrollY":476.5},
+{"id":13,"expanded":false,"name":"13手機","order":3,"parentId":16,"scrollX":409,"scrollY":503.5},
 {"id":14,"expanded":true,"name":"14死亡映相館","order":5,"parentId":16,"scrollX":409,"scrollY":456.5},
 {"id":15,"expanded":false,"name":"15單獨事件首頁","order":6,"parentId":16,"scrollX":409,"scrollY":456.5},
-{"id":16,"expanded":true,"name":"16怪談首頁","order":1,"parentId":0,"scrollX":409,"scrollY":503.5}
+{"id":16,"expanded":true,"name":"16怪談首頁","order":1,"parentId":0,"scrollX":409,"scrollY":456.5}
 ]
